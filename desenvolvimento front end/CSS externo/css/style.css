@@ -1,0 +1,8 @@
+#div1 > h1{  /* sinal de > apenas se h1 for filha*/
+    color: green;
+}
+
+#div2 h1{ /* Todos os h1 dentro div*/
+    color: red;
+}
+

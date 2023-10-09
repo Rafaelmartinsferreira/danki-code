@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+/*
+a[href="http://www.google.com"] {
+    background-color: yellow;
+}
+
+
+[href="http://www.google.com"] {
+    background-color: red ;
+}
+*/
+
+/*
+
+    PROCURA ENTRE OS ESPAÇOS DO ATRIBUTO
+
+a[attr~="google"] {
+    background-color: blue;
+}
+*/
+
+/*
+
+ACHE A PALAVRA GOOGLE EM QUALQUER LUGGGAR
+
+a[attr*="google"] {
+    background-color: blue;
+}
+*/
